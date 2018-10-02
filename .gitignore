@@ -1,0 +1,21 @@
+Weather/.vs/
+Weather/packages/
+
+Weather/Weather.BackEnd/bin/
+Weather/Weather.BackEnd/obj/
+Weather/Weather.BackEnd.Tests/bin/
+Weather/Weather.BackEnd.Tests/obj/
+Weather/Weather.BackeEnd.IntegrationTests/bin/
+Weather/Weather.BackeEnd.IntegrationTests/obj/
+Weather/Weather.AcceptanceTests/bin/
+Weather/Weather.AcceptanceTests/obj/
+
+Weather/Weather.BackeEnd.cceptance Tests/obj/
+/.vs
+/packages
+/weatherforecastweb.ui/node_modules
+/WeatherForecastWebApi/bin
+/WeatherForecastWebApi/obj/Debug
+/WeatherForecastWebApi/WeatherForecastWebApi.csproj.user
+/WeatherForecastWebApi.UnitTests/bin/Debug
+/WeatherForecastWebApi.UnitTests/obj/Debug
