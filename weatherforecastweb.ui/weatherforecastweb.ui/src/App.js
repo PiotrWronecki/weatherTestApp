@@ -1,7 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React, { Component } from 'react';
 import WeatherForm from './components/weather-search-form/weather-search-form';
-import WeatherResultForm from './components/weather-result-form/weather-result-form';
+import WeatherResultForm from './components/Weather-results/Weather-results';
 import logo from './logo.svg';
 import axios from 'axios';
 import './App.css';
